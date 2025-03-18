@@ -29,8 +29,8 @@ Este projeto é uma aplicação web para gerenciar uma biblioteca de jogos. Os u
 
 ### 1️⃣ Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/janderTodero/Biblioteca-de-jogos.git
+cd Biblioteca-de-jogos
 ```
 
 ### 2️⃣ Instalar Dependências
